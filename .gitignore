@@ -1,0 +1,28 @@
+# Build artifacts
+*.exe
+*.spec
+build/
+dist/
+__pycache__/
+
+# Config
+*.json
+*.txt
+!README.md
+!LICENSE
+
+# Source code
+*.py
+*.bat
+*.ps1
+
+# Keys
+*.key
+*.pem
+
+# Logs
+*.log
+
+# Temp
+temp/
+tmp/
