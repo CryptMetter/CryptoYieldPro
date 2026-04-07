@@ -343,7 +343,7 @@ The delta-neutral strategy is specifically designed for market-neutral performan
 
 | Platform | Download | Size |
 |----------|----------|------|
-| Windows 10/11 (64-bit) | [CryptoYieldPro.exe](https://github.com/CryptMetter/CryptoYieldPro/releases/download/v4.1.0/CryptoYieldPro.exe) | ~25 MB |
+| Windows 10/11 (64-bit) | [CryptoYieldPro.exe](https://github.com/CryptMetter/CryptoYieldPro/releases/download/v4.1.0/CryptoYieldPro.exe) | ~81.9 MB |
 ### Checksums
 MD5:    (will be updated on release)
 SHA256: (will be updated on release)
